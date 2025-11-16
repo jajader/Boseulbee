@@ -1,13 +1,13 @@
 1:"$Sreact.fragment"
-2:I[97367,["/Boseulbee/_next/static/chunks/ff1a16fafef87110.js","/Boseulbee/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
-4:I[97367,["/Boseulbee/_next/static/chunks/ff1a16fafef87110.js","/Boseulbee/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+2:I[97367,["/BoseulBee/_next/static/chunks/ff1a16fafef87110.js","/BoseulBee/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+4:I[97367,["/BoseulBee/_next/static/chunks/ff1a16fafef87110.js","/BoseulBee/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
-7:I[27201,["/Boseulbee/_next/static/chunks/ff1a16fafef87110.js","/Boseulbee/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
-:HL["/Boseulbee/_next/static/chunks/28efb76924d6d49e.css","style"]
-:HL["/Boseulbee/_next/static/chunks/6f04dbb31b3b2afc.css","style"]
-:HL["/Boseulbee/_next/static/media/055520b25caca6ee-s.p.23dc43ba.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/Boseulbee/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/Boseulbee/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"fqatxaLpht4RLPbwXmYgk","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"Analysis","paramType":null,"paramKey":"Analysis","hasRuntimePrefetch":false,"slots":{"children":{"name":"id","paramType":"d","paramKey":"4","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isHeadPartial":false,"staleTime":300}
+7:I[27201,["/BoseulBee/_next/static/chunks/ff1a16fafef87110.js","/BoseulBee/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+:HL["/BoseulBee/_next/static/chunks/28efb76924d6d49e.css","style"]
+:HL["/BoseulBee/_next/static/chunks/6f04dbb31b3b2afc.css","style"]
+:HL["/BoseulBee/_next/static/media/055520b25caca6ee-s.p.23dc43ba.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/BoseulBee/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/BoseulBee/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"-GZEVcetUR8Pe84SVMmfP","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"Analysis","paramType":null,"paramKey":"Analysis","hasRuntimePrefetch":false,"slots":{"children":{"name":"id","paramType":"d","paramKey":"4","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isHeadPartial":false,"staleTime":300}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-6:[["$","title","0",{"children":"Bee"}],["$","meta","1",{"name":"description","content":"Bee"}],["$","link","2",{"rel":"icon","href":"/Boseulbee/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L7","3",{}]]
+6:[["$","title","0",{"children":"Bee"}],["$","meta","1",{"name":"description","content":"Bee"}],["$","link","2",{"rel":"icon","href":"/BoseulBee/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L7","3",{}]]

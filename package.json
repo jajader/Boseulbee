@@ -1,0 +1,26 @@
+{
+  "name": "creative",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "deploy": "next build && npx shx touch out/.nojekyll && git add -f out/ && git commit -m \"Deploy\" && git subtree push --prefix out origin gh-pages"
+  },
+  "dependencies": {
+    "katex": "^0.16.25",
+    "next": "16.0.2",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "react-katex": "^3.1.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "16.0.2",
+    "shx": "^0.4.0",
+    "tailwindcss": "^4"
+  }
+}

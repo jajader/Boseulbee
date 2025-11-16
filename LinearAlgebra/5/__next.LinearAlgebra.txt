@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[39756,["/Boseulbee/_next/static/chunks/ff1a16fafef87110.js","/Boseulbee/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+3:I[37457,["/Boseulbee/_next/static/chunks/ff1a16fafef87110.js","/Boseulbee/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+0:{"buildId":"fqatxaLpht4RLPbwXmYgk","rsc":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/Boseulbee/_next/static/chunks/b87f6acd499be80f.js","async":true}]],["$","div",null,{"className":"bg-[#ECF4E8]","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]]}],"loading":null,"isPartial":false}
